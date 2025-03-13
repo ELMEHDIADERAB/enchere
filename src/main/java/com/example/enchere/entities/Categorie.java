@@ -37,5 +37,5 @@ public class Categorie {
     public void setNomCategorie(String nomCategorie) {
         this.nomCategorie = nomCategorie;
     }
-    //... Getters and Setters
+
 }
